@@ -1,0 +1,11 @@
+{
+    "user_name": "Sangeeth",
+    "assistant_name": "ZARA",
+    "wake_word": "wake up zara",
+    "theme": "dark",
+    "voice_rate": 190,
+    "voice_enabled": true,
+    "face_verification": true,
+    "vision_enabled": true,
+    "gui_enabled": true
+}

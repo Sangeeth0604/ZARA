@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+
+# Runtime / personal data
+memory.json
+reminders.json
+timed_reminders.json
+zara_gui_log.jsonl
+zara_gui_status.json
+
+# Build / packaged files
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+
+# Generated screenshots
+vision_screenshots/
+screenshots/
+
+# Local face data
+sangeeth_face.jpg
